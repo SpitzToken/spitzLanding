@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Spitz	</title>
-	<atom:link href="https://spitztoken.github.io/spitzLanding/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://spitztoken.github.io/spitzLanding</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>spits token</description>
-	<lastBuildDate>Thu, 13 May 2021 08:37:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 May 2021 06:23:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
